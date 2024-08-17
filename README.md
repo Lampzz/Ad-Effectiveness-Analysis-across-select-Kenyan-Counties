@@ -11,3 +11,5 @@ This project focuses on analyzing marketing data across various urban and rural 
 ![Ad Effectiveness-images-3](https://github.com/user-attachments/assets/8b82f27d-d030-4b71-ba3c-55c4ae9191e4)
 
 ## Best Performing Advertising Platform per County
+![Ad Effectiveness-images-4](https://github.com/user-attachments/assets/d16efa8d-966b-49be-a606-395b5a200d5d)
+
